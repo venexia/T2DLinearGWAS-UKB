@@ -37,3 +37,13 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# User specified
+code/specify_paths.R
+raw/*
+!raw/README.md
+output/*
+!output/README.md
+data/*
+!data/README.md
+*.Rproj
